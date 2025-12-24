@@ -6,9 +6,9 @@ Silent churn refers to users who gradually disengage from a product without form
 This project focuses on identifying silently churning users using behavioral and engagement metrics, segmenting them by churn risk, and presenting actionable insights through an interactive Power BI dashboard.
 
 ## Objectives
-- Identify silently churning users based on inactivity and engagement patterns  
-- Segment users into churn risk levels for prioritization  
-- Analyze engagement drop between active and silent churn users  
+- Identify silent churn based on inactivity and engagement patterns  
+- Segment customers into churn risk levels for prioritization  
+- Analyze engagement drop between active and silently churning users  
 - Build a decision-oriented dashboard for business stakeholders  
 
 ## Tools and Technologies
