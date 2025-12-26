@@ -53,6 +53,9 @@ The Power BI dashboard provides:
 This analysis enables product and growth teams to:
 - Detect disengagement early  
 - Focus retention efforts on high-risk users  
-- Improve engagement strategies using data-driven insights  
+- Improve engagement strategies using data-driven insights
+
+- Dashboard
+(silent_churn_analysis/images/dashboard.png)
 
 
