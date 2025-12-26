@@ -56,6 +56,6 @@ This analysis enables product and growth teams to:
 - Improve engagement strategies using data-driven insights
 
 - Dashboard
-(silent_churn_analysis/images/dashboard.png)
+!(silent_churn_analysis/images/dashboard.png)
 
 
